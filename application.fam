@@ -1,0 +1,10 @@
+App(
+    appid="cp1251_demo",
+    name="cp1251_demo",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="cp1251_main",
+    fap_category="Misc",
+    fap_author="Evgeny Stepanischev",
+    fap_description="CP1251 demo",
+    fap_version=(0, 1),
+)
